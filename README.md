@@ -1,7 +1,5 @@
 # Axiom
 
-Job boards are a mess. Same posting duplicated across five sites with five different titles, half the listings don't say what seniority they actually want, salary's hidden until you've already applied, and every "smart filter" is just keyword matching wearing a trench coat. I got tired of scrolling through noise to find the two postings a week actually worth my time — so I built something to do that scrolling for me, and actually think about what it's looking at.
-
 Job boards are very hard to deal with. Especially if your are doesn't have many jobs and you are looking for remote roles either in your country or abroad, also when trying to find freelancing roles. The filters are always off, the jobs seniority level almost always default to giving the senior roles, outdated and reposted jobs everywhere, in addition to the continuously increasing number of scams and ghost jobs. Then finally the application takes sometimes up to an hour for a job you are not sure is real.
 
 ## What it does
